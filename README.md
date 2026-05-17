@@ -38,8 +38,8 @@ Site institucional desenvolvido **voluntariamente** para uma ONG real de resgate
 
 ### 🎭 [Cocar Sagrado](https://github.com/MatheusGustav/cocarsagrado) — `Web App`
 Plataforma web com painel administrativo, banco de dados relacional e sistema de vagas especiais.
-- Área admin protegida com gerenciamento de conteúdo e sorteios
-- Integração com Supabase (Postgres + Storage + RLS)
+- Área admin protegida com gerenciamento de promoções, agenda especial, agenda normal e contabilizador de ganhos.
+- Integração com Supabase (Postgres + Storage + RLS) e API infinity pay
 - **Stack:** HTML · CSS · JavaScript · TypeScript · Supabase
 - 🌐 [cocarsagrado.com.br](https://cocarsagrado.com.br)
 
@@ -55,7 +55,7 @@ Plataforma open source de leitura de HQs com autenticação e banco de dados.
 ---
 
 ### 🔗 [Agregador de Links](https://github.com/MatheusGustav/Agregador-de-Links) — `Portfólio`
-Página de links e portfólio pessoal customizada.
+Página de links e portfólio pessoal customizada, aprendi a fazer pelo curso DevLinks e customizei ao meu gosto.
 - **Stack:** HTML · CSS
 - 🌐 [ver no ar](https://matheusgustav.github.io/Agregador-de-Links/)
 

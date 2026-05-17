@@ -55,7 +55,7 @@ Plataforma open source de leitura de HQs com autenticação e banco de dados.
 ---
 
 ### 🔗 [Agregador de Links](https://github.com/MatheusGustav/Agregador-de-Links) — `Portfólio`
-Página de links e portfólio pessoal customizada, aprendi a fazer pelo curso DevLinks e customizei ao meu gosto.
+página de links e portfólio pessoal, inspirada no DevLinks e customizada do zero
 - **Stack:** HTML · CSS
 - 🌐 [ver no ar](https://matheusgustav.github.io/Agregador-de-Links/)
 

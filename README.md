@@ -45,15 +45,6 @@ Plataforma web com painel administrativo, banco de dados relacional e sistema de
 
 ---
 
-### 📚 [VyraComics Open Source](https://github.com/heroX872/VyraComics-OpenSource) — `Plataforma de Quadrinhos`
-Plataforma open source de leitura de HQs com autenticação e banco de dados.
-- Sistema de login e cadastro de usuários
-- Armazenamento e exibição de quadrinhos via Supabase Storage
-- **Stack:** HTML · CSS · JavaScript · Supabase
-- 🌐 [ver no ar](https://vyracomicsweb.teenvyracomics.workers.dev/)
-
----
-
 ### 🔗 [Agregador de Links](https://github.com/MatheusGustav/Agregador-de-Links) — `Portfólio`
 página de links e portfólio pessoal, inspirada no DevLinks e customizada do zero
 - **Stack:** HTML · CSS

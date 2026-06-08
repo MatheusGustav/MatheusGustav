@@ -54,6 +54,5 @@ página de links e portfólio pessoal, inspirada no DevLinks e customizada do ze
 
 ## 📬 Contato
 
-[![Instagram](https://img.shields.io/badge/@gustavdev.js-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gustavdev.js)
+[![Instagram](https://www.instagram.com/matheus.extends)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5527996240725)
-[![GitHub](https://img.shields.io/badge/GitHub-MatheusGustav-181717?style=flat-square&logo=github)](https://github.com/MatheusGustav)

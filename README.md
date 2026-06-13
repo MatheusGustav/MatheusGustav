@@ -1,11 +1,13 @@
 <h1 align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=FFFF
-  FF&center=false&vCenter=true&width=500&lines=Matheus+Gustav">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=000000&center=false&vCenter=true&width=500&line
-  s=Matheus+Gustav" alt="Matheus Gustav">
+  FF&center=false&vCenter=true&repeat=true&width=500&lines=Matheus+Gustav">
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=000000&center=false&vCenter=true&repeat=true&wi
+  dth=500&lines=Matheus+Gustav" alt="Matheus Gustav">
     </picture>
   </h1>
+
+
   
 
   

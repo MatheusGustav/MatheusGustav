@@ -1,5 +1,5 @@
  <h1 align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=3ECF8E&center=false&vCenter=true&width=500&lines=
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=339933&center=false&vCenter=true&width=500&lines=
   Matheus+Gustav" alt="Matheus Gustav">
   </h1>
   

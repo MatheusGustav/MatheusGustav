@@ -1,6 +1,6 @@
  <h1 align="left">
     <img src="https://readme-typing-svg.demolab.com?color=339933&font=Montserrat&weight=600&size=32&duration=3000&pause=1000&center=false&vCenter=true&width=500&lines=
-  Matheus+Gustav&v=2" alt="Matheus Gustav">
+  Matheus+Gustav&v=8" alt="Matheus Gustav">
   </h1>
 
 

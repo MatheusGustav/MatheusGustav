@@ -1,19 +1,10 @@
-<h1 align="left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=FFFF
-  FF&center=false&vCenter=true&repeat=true&width=500&lines=Matheus+Gustav">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=000000&center=false&vCenter=true&repeat=true&wi
-  dth=500&lines=Matheus+Gustav" alt="Matheus Gustav">
-    </picture>
+ <h1 align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=3ECF8E&center=false&vCenter=true&width=500&lines=
+  Matheus+Gustav" alt="Matheus Gustav">
   </h1>
-
-
   
-
-  
-  Sou desenvolvedor FullStack, sou bom contruir e-commerces complexos. Tenho paixão por automação e Inteligencia Artificial e evoluo a cada dia mais com novos projetos
-  e experiencias no meio do caminho.
-  Me chama para um orçamento! vou ficar feliz em te atender!
+Sou desenvolvedor FullStack, sou bom contruir e-commerces complexos. Tenho paixão por automação e Inteligencia Artificial e evoluo a cada dia mais com novos projetos e experiencias no meio do caminho.
+Me chama para um orçamento! vou ficar feliz em te atender!
   
   ## 🛠 Tech Stack
 

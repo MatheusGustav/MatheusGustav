@@ -28,6 +28,7 @@ jobs:
 
       - name: Recortar a moldura (impede a cobrinha de escapar da grade)
         run: |
+          sudo chown -R "$USER" dist
           for f in dist/snake.svg dist/snake-dark.svg; do
             sed -i -E \
               -e 's/viewBox="-16 -32 880 192"/viewBox="-16 -10 880 132"/' \

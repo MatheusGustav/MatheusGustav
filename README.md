@@ -1,72 +1,191 @@
- <h1 align="left">
-    <img src="https://readme-typing-svg.demolab.com?color=339933&font=Montserrat&weight=600&size=32&duration=3000&pause=1000&center=false&vCenter=true&width=500&lines=
-  Matheus+Gustav&v=8" alt="Matheus Gustav">
-  </h1>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        HEADER ANIMADO                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
+<div align="center">
 
-Sou desenvolvedor FullStack, sou bom contruir e-commerces complexos. Tenho paixão por automação e Inteligencia Artificial e evoluo a cada dia mais com novos projetos e experiencias no meio do caminho.
-Me chama para um orçamento! vou ficar feliz em te atender!
-  
-  ## 🛠 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:3ECF8E&height=220&section=header&text=Matheus%20Gustav&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FullStack%20Developer%20•%20IA%20%26%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=20&descColor=eafff0" width="100%" alt="Matheus Gustav" />
 
-  **Frontend**
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+<!-- TYPING ANIMADO -->
+<a href="https://wa.me/5527996240725">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=3ECF8E&center=true&vCenter=true&width=620&height=50&lines=Construo+e-commerces+complexos+que+vendem+%F0%9F%9B%92;Apaixonado+por+IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;React+%C2%B7+Next+%C2%B7+Supabase+%C2%B7+Deno;Bora+tirar+sua+ideia+do+papel%3F+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-  **Backend & Database**
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<!-- BADGES DE PERFIL -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MatheusGustav&label=Visitas+no+perfil&color=3ECF8E&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/MatheusGustav?tab=followers">
+    <img src="https://img.shields.io/github/followers/MatheusGustav?label=Seguidores&style=flat-square&color=339933&logo=github" alt="Followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Guarapari%2FES-%F0%9F%87%A7%F0%9F%87%B7-3ECF8E?style=flat-square" alt="Location" />
+</p>
 
-  **DevOps & Ferramentas**
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</div>
 
-  ---
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                           SOBRE                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-  ## 📦 Open Source
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" align="left" />
 
-  ### 💸 [webhook-pagamentos](https://github.com/MatheusGustav/webhook-pagamentos) — `MIT · PT-BR`
-  Integração de pagamento completa: **cria a cobrança e confirma o pagamento com segurança** — InfinitePay e Mercado Pago.
-  - Nunca confia só no aviso: reconfirma na API do gateway
-  - Idempotência (reenvio não confirma 2×), validação de valor em centavos e log de toda chamada
-  - Bot do Telegram avisa cada venda — e cada problema, com o motivo
-  - Extraído de código rodando **em produção**; arquitetura plugável (novo gateway = 1 arquivo)
-  - **Stack:** TypeScript · Deno · Supabase
-  - 💼 Quer no seu projeto sem dor de cabeça? **Eu instalo** → [WhatsApp](https://wa.me/5527996240725)
+> Sou **desenvolvedor FullStack** e bom em **construir e-commerces complexos**. Tenho paixão por **automação** e **Inteligência Artificial**, e evoluo a cada dia com novos projetos e experiências no meio do caminho.
+>
+> 💬 **Me chama para um orçamento — vou ficar feliz em te atender!**
 
-  ---
+<br/>
 
-  ## 🚀 Projetos em Destaque
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         TECH STACK                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-  ### 🎭 [Cocar Sagrado](https://github.com/MatheusGustav/cocarsagrado) — `E-commerce de serviços`
-  Plataforma completa de agendamento e venda de leituras, **em produção**.
-  - Carrinho de múltiplos serviços com pagamento único (InfinitePay) e confirmação automática via webhook
-  - Controle de vagas à prova de concorrência (triggers Postgres) — sem overbooking
-  - Painel admin com agenda, promoções, financeiro e atualização **em tempo real** quando um pagamento confirma
-  - PWA instalável + bot do Telegram avisando cada venda
-  - **Stack:** HTML · CSS · JavaScript · TypeScript · Supabase (Postgres + RLS + Edge Functions)
-  - 🌐 [cocarsagrado.com.br](https://cocarsagrado.com.br)
+<div align="center">
 
-  ---
+## 🛠️ &nbsp; Tech Stack
 
-  ## 📬 Contato
-  [![Instagram](https://img.shields.io/badge/@matheus.extends-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.extends)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5527996240725)
+<br/>
 
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro,tailwind&theme=dark&perline=9" alt="Frontend stack" />
+&nbsp;
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" height="35" />
+
+<br/><br/>
+
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,deno,python,supabase,postgres,mysql,mongodb&theme=dark&perline=7" alt="Backend stack" />
+
+<br/><br/>
+
+**🚀 DevOps & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,linux,figma&theme=dark&perline=6" alt="DevOps stack" />
+
+</div>
+
+<br/>
+
+<!-- DIVISÓRIA ANIMADA -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Rainbow%20Line.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       GITHUB STATS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 📊 &nbsp; GitHub Stats
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusGustav&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=3ECF8E&icon_color=339933&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGustav&hide_border=true&background=0D1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=339933" alt="Streak Stats" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGustav&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=3ECF8E&text_color=c9d1d9" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- TROFÉUS -->
+<img src="https://github-profile-trophy.vercel.app/?username=MatheusGustav&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="100%" />
+
+<br/>
+
+<!-- GRAFO DE ATIVIDADE ANIMADO -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusGustav&bg_color=0D1117&color=3ECF8E&line=339933&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%" />
+
+<br/>
+
+<!-- COBRINHA DE CONTRIBUIÇÕES -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" alt="Snake animation" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Rainbow%20Line.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        OPEN SOURCE                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📦 &nbsp; Open Source
+
+### 💸 [webhook-pagamentos](https://github.com/MatheusGustav/webhook-pagamentos) &nbsp; `MIT · PT-BR`
+
+> Integração de pagamento completa: **cria a cobrança e confirma o pagamento com segurança** — InfinitePay e Mercado Pago.
+
+- 🔒 Nunca confia só no aviso: reconfirma na API do gateway
+- 🔁 Idempotência (reenvio não confirma 2×), validação de valor em centavos e log de toda chamada
+- 🔔 Bot do Telegram avisa cada venda — e cada problema, com o motivo
+- 🧩 Extraído de código rodando **em produção**; arquitetura plugável (novo gateway = 1 arquivo)
+- 🛠️ **Stack:** TypeScript · Deno · Supabase
+- 💼 Quer no seu projeto sem dor de cabeça? **Eu instalo** → [WhatsApp](https://wa.me/5527996240725)
+
+### 🦜 [ekodide](https://github.com/MatheusGustav/ekodide) &nbsp; `Python · Kotlin`
+
+> Transferência de arquivos pela rede local, **cifrada (AES-256-GCM)** e **autenticada (HMAC)** — chega byte-idêntica.
+
+- 🔐 Criptografia ponta a ponta com pareamento por frase-código
+- 📡 Descoberta automática de aparelhos na rede (zero-config)
+- 🐍 CLI em Python (1 só dependência) + 📱 app Android em Kotlin, com testes nos dois lados
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Rainbow%20Line.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    PROJETOS EM DESTAQUE                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🚀 &nbsp; Projetos em Destaque
+
+### 🎭 [Cocar Sagrado](https://github.com/MatheusGustav/cocarsagrado) &nbsp; `E-commerce de serviços`
+
+> Plataforma completa de agendamento e venda de leituras, **em produção**.
+
+- 🛒 Carrinho de múltiplos serviços com pagamento único (InfinitePay) e confirmação automática via webhook
+- 🔒 Controle de vagas à prova de concorrência (triggers Postgres) — sem overbooking
+- 📊 Painel admin com agenda, promoções, financeiro e atualização **em tempo real** quando um pagamento confirma
+- 📲 PWA instalável + bot do Telegram avisando cada venda
+- 🛠️ **Stack:** HTML · CSS · JavaScript · TypeScript · Supabase (Postgres + RLS + Edge Functions)
+- 🌐 **[cocarsagrado.com.br](https://cocarsagrado.com.br)**
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Rainbow%20Line.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          CONTATO                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 📬 &nbsp; Vamos Conversar?
+
+<br/>
+
+<a href="https://wa.me/5527996240725">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://www.instagram.com/matheus.extends">
+  <img src="https://img.shields.io/badge/@matheus.extends-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:matheusgustav.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!+%E2%9C%A8;Bora+construir+algo+incr%C3%ADvel+juntos%3F" alt="Footer typing" />
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:339933&height=120&section=footer" width="100%" alt="footer" />

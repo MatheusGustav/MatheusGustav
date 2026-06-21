@@ -6,12 +6,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:022c22&height=220&section=header&text=Matheus%20Gustav&fontSize=58&fontColor=eafff4&animation=fadeIn&fontAlignY=36&desc=FullStack%20Developer%20%E2%80%A2%20Sites%2C%20Apps%20%26%20Automa%C3%A7%C3%B5es&descAlignY=58&descSize=20&descColor=6EE7B7" width="100%" alt="Matheus Gustav" />
 
-<!-- TYPING ANIMADO -->
 <a href="https://wa.me/5527996240725">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=720&height=50&lines=Construo+sites%2C+aplicativos+e+automa%C3%A7%C3%B5es+%E2%9A%99%EF%B8%8F;Apaixonado+por+IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;React+%C2%B7+Next+%C2%B7+Supabase+%C2%B7+Deno;Bora+tirar+sua+ideia+do+papel%3F+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- BADGES DE PERFIL -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=MatheusGustav&label=Visitas+no+perfil&color=047857&style=flat-square" alt="Profile views" />
   <a href="https://github.com/MatheusGustav?tab=followers">
@@ -26,13 +24,13 @@
 <!-- ║                           SOBRE                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" align="left" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="26" align="left" />
 
 > Sou **desenvolvedor FullStack** e bom em **construir sites, aplicativos e automações**. Tenho paixão por **automação** e **Inteligência Artificial**, e evoluo a cada dia com novos projetos e experiências no meio do caminho.
 >
 > 💬 **Me chama para um orçamento — vou ficar feliz em te atender!**
 
-<br/>
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                         TECH STACK                          ║ -->
@@ -42,88 +40,65 @@
 
 ## 🛠️ &nbsp; Tech Stack
 
-<br/>
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro,tailwind&theme=dark&perline=9" alt="Frontend stack" />
-&nbsp;
-<img src="https://img.shields.io/badge/PWA-047857?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" height="35" />
-
-<br/><br/>
-
-**⚙️ Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,deno,python,supabase,postgres,mysql,mongodb&theme=dark&perline=7" alt="Backend stack" />
-
-<br/><br/>
-
-**🚀 DevOps & Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,linux&theme=dark&perline=5" alt="DevOps stack" />
-
-<br/><br/>
-
-**📚 Atualmente aprendendo**
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
-&nbsp;
-<img src="https://img.shields.io/badge/Figma-aprendendo%20%F0%9F%8C%B1-047857?style=for-the-badge&labelColor=022c22&logo=figma&logoColor=34D399" alt="Aprendendo Figma" height="33" />
+<table>
+  <tr>
+    <td align="center"><strong>🎨 &nbsp; Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro,tailwind&theme=dark&perline=9" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ &nbsp; Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,deno,python,supabase,postgres,mysql,mongodb&theme=dark&perline=7" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🚀 &nbsp; DevOps</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,linux&theme=dark&perline=5" alt="DevOps" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📚 &nbsp; Aprendendo</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> &nbsp;<img src="https://img.shields.io/badge/Figma-em%20progresso%20%F0%9F%8C%B1-047857?style=flat-square&labelColor=022c22&logo=figma&logoColor=34D399" alt="Aprendendo Figma" height="22" /></td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
-
-<!-- DIVISÓRIA ANIMADA -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Rainbow%20Line.gif" width="100%" alt="divider" />
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       GITHUB STATS                          ║ -->
+<!-- ║                          PROJETOS                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-## 📊 &nbsp; GitHub Stats
+## 🚀 &nbsp; Projetos
 
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusGustav&show_icons=true&hide_border=true&count_private=true&bg_color=06231A&title_color=34D399&icon_color=6EE7B7&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGustav&hide_border=true&background=06231A&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=047857" alt="Streak Stats" />
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGustav&layout=compact&hide_border=true&langs_count=8&bg_color=06231A&title_color=34D399&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- TROFÉUS -->
-<img src="https://github-profile-trophy.vercel.app/?username=MatheusGustav&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="100%" />
-
-<br/>
-
-<!-- GRAFO DE ATIVIDADE ANIMADO -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusGustav&bg_color=06231A&color=6EE7B7&line=34D399&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%" />
-
-<br/>
-
-<!-- COBRINHA DE CONTRIBUIÇÕES -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" alt="Snake animation" width="100%" />
-</picture>
+<a href="https://github.com/MatheusGustav/cocarsagrado">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGustav&repo=cocarsagrado&bg_color=06231A&title_color=34D399&text_color=c9d1d9&icon_color=6EE7B7&hide_border=true&show_owner=false" alt="Cocar Sagrado" />
+</a>
+<a href="https://github.com/MatheusGustav/webhook-pagamentos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGustav&repo=webhook-pagamentos&bg_color=06231A&title_color=34D399&text_color=c9d1d9&icon_color=6EE7B7&hide_border=true&show_owner=false" alt="webhook-pagamentos" />
+</a>
+<a href="https://github.com/MatheusGustav/ekodide">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGustav&repo=ekodide&bg_color=06231A&title_color=34D399&text_color=c9d1d9&icon_color=6EE7B7&hide_border=true&show_owner=false" alt="ekodide" />
+</a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Rainbow%20Line.gif" width="100%" alt="divider" />
+<details>
+<summary><strong>📂 &nbsp; Ver detalhes dos projetos</strong></summary>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        OPEN SOURCE                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<br/>
 
-## 📦 &nbsp; Open Source
+### 🎭 [Cocar Sagrado](https://github.com/MatheusGustav/cocarsagrado) &nbsp; `E-commerce de serviços · em produção`
+
+> Plataforma completa de agendamento e venda de leituras. 🌐 **[cocarsagrado.com.br](https://cocarsagrado.com.br)**
+
+- 🛒 Carrinho de múltiplos serviços com pagamento único (InfinitePay) e confirmação automática via webhook
+- 🔒 Controle de vagas à prova de concorrência (triggers Postgres) — sem overbooking
+- 📊 Painel admin com agenda, promoções, financeiro e atualização **em tempo real** quando um pagamento confirma
+- 📲 PWA instalável + bot do Telegram avisando cada venda
+- 🛠️ **Stack:** HTML · CSS · JavaScript · TypeScript · Supabase (Postgres + RLS + Edge Functions)
 
 ### 💸 [webhook-pagamentos](https://github.com/MatheusGustav/webhook-pagamentos) &nbsp; `MIT · PT-BR`
 
@@ -144,30 +119,33 @@
 - 📡 Descoberta automática de aparelhos na rede (zero-config)
 - 🐍 CLI em Python (1 só dependência) + 📱 app Android em Kotlin, com testes nos dois lados
 
-<br/>
+</details>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Rainbow%20Line.gif" width="100%" alt="divider" />
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    PROJETOS EM DESTAQUE                     ║ -->
+<!-- ║                     GITHUB EM NÚMEROS                        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🚀 &nbsp; Projetos em Destaque
+<div align="center">
 
-### 🎭 [Cocar Sagrado](https://github.com/MatheusGustav/cocarsagrado) &nbsp; `E-commerce de serviços`
+## 📊 &nbsp; GitHub em Números
 
-> Plataforma completa de agendamento e venda de leituras, **em produção**.
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MatheusGustav&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=06231A&title_color=34D399&icon_color=6EE7B7&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGustav&layout=compact&hide_border=true&langs_count=8&bg_color=06231A&title_color=34D399&text_color=c9d1d9" alt="Top Languages" />
 
-- 🛒 Carrinho de múltiplos serviços com pagamento único (InfinitePay) e confirmação automática via webhook
-- 🔒 Controle de vagas à prova de concorrência (triggers Postgres) — sem overbooking
-- 📊 Painel admin com agenda, promoções, financeiro e atualização **em tempo real** quando um pagamento confirma
-- 📲 PWA instalável + bot do Telegram avisando cada venda
-- 🛠️ **Stack:** HTML · CSS · JavaScript · TypeScript · Supabase (Postgres + RLS + Edge Functions)
-- 🌐 **[cocarsagrado.com.br](https://cocarsagrado.com.br)**
+<br/><br/>
 
-<br/>
+<!-- COBRINHA DE CONTRIBUIÇÕES -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" alt="Snake animation" width="100%" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Rainbow%20Line.gif" width="100%" alt="divider" />
+</div>
+
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          CONTATO                            ║ -->
@@ -176,8 +154,6 @@
 <div align="center">
 
 ## 📬 &nbsp; Vamos Conversar?
-
-<br/>
 
 <a href="https://wa.me/5527996240725">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -191,9 +167,8 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!+%E2%9C%A8;Bora+construir+algo+incr%C3%ADvel+juntos%3F" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&pause=1000&color=34D399&center=true&vCenter=true&width=520&lines=Obrigado+pela+visita!+%E2%9C%A8;Bora+construir+algo+incr%C3%ADvel+juntos%3F" alt="Footer typing" />
 
 </div>
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,100:047857&height=120&section=footer" width="100%" alt="footer" />

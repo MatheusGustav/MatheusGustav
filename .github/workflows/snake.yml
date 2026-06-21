@@ -26,6 +26,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Recortar a moldura (impede a cobrinha de escapar da grade)
+        run: |
+          for f in dist/snake.svg dist/snake-dark.svg; do
+            sed -i -E \
+              -e 's/viewBox="-16 -32 880 192"/viewBox="-16 -10 880 132"/' \
+              -e 's/height="192"/height="132"/' "$f"
+          done
+
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:

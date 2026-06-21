@@ -4,19 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:022c22&height=220&section=header&text=Matheus%20Gustav&fontSize=58&fontColor=eafff4&animation=fadeIn&fontAlignY=36&desc=FullStack%20Developer%20%E2%80%A2%20Sites%2C%20Apps%20%26%20Automa%C3%A7%C3%B5es&descAlignY=58&descSize=20&descColor=6EE7B7" width="100%" alt="Matheus Gustav" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=52&color=34D399&center=true&vCenter=true&repeat=false&width=720&height=90&lines=Matheus+Gustav" alt="Matheus Gustav" />
+
+<p><strong>FullStack Developer &nbsp;•&nbsp; Sites, Apps &amp; Automações &nbsp;•&nbsp; 🇧🇷 Guarapari/ES</strong></p>
 
 <a href="https://wa.me/5527996240725">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=720&height=50&lines=Construo+sites%2C+aplicativos+e+automa%C3%A7%C3%B5es+%E2%9A%99%EF%B8%8F;Apaixonado+por+IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;React+%C2%B7+Next+%C2%B7+Supabase+%C2%B7+Deno;Bora+tirar+sua+ideia+do+papel%3F+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=720&height=45&lines=Construo+sites%2C+aplicativos+e+automa%C3%A7%C3%B5es+%E2%9A%99%EF%B8%8F;Apaixonado+por+IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;React+%C2%B7+Next+%C2%B7+Supabase+%C2%B7+Deno;Bora+tirar+sua+ideia+do+papel%3F+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MatheusGustav&label=Visitas+no+perfil&color=047857&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/MatheusGustav?tab=followers">
-    <img src="https://img.shields.io/github/followers/MatheusGustav?label=Seguidores&style=flat-square&color=047857&logo=github" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Guarapari%2FES-%F0%9F%87%A7%F0%9F%87%B7-047857?style=flat-square" alt="Location" />
-</p>
 
 </div>
 
@@ -140,7 +134,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" alt="Snake animation" />
 </picture>
 
 </div>
@@ -170,5 +164,3 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&pause=1000&color=34D399&center=true&vCenter=true&width=520&lines=Obrigado+pela+visita!+%E2%9C%A8;Bora+construir+algo+incr%C3%ADvel+juntos%3F" alt="Footer typing" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,100:047857&height=120&section=footer" width="100%" alt="footer" />

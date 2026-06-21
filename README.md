@@ -40,8 +40,8 @@
     <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro,tailwind&theme=dark&perline=9" alt="Frontend" /></td>
   </tr>
   <tr>
-    <td align="center"><strong>⚙️ &nbsp; Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,deno,python,supabase,postgres,mysql,mongodb&theme=dark&perline=7" alt="Backend" /></td>
+    <td align="center"><strong>⚙️ &nbsp; Backend & Linguagens</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,deno,python,kotlin,cpp,supabase,postgres,mysql,mongodb&theme=dark&perline=9" alt="Backend & Linguagens" /></td>
   </tr>
   <tr>
     <td align="center"><strong>🚀 &nbsp; DevOps</strong></td>

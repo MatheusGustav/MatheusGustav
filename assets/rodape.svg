@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="110" viewBox="0 0 854 110" role="img" aria-label="">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000000"/><stop offset=".5" stop-color="#1f1f1f"/><stop offset="1" stop-color="#4a4a4a"/></linearGradient></defs>
+<g transform="translate(854 110) rotate(180)"><path fill="url(#g)" d="M0 90 C 214 72 427 108 640 90 S 854 72 854 81.0 V 0 H 0 Z"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 90 C 214 72 427 108 640 90 S 854 72 854 81.0 V 0 H 0 Z;M0 81.0 C 214 108 427 72 640 81.0 S 854 99.0 854 90 V 0 H 0 Z;M0 90 C 214 72 427 108 640 90 S 854 72 854 81.0 V 0 H 0 Z"/></path></g>
+</svg>

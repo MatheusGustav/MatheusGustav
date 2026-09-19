@@ -1,166 +1,194 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        HEADER ANIMADO                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=52&color=34D399&center=true&vCenter=true&repeat=false&width=720&height=90&lines=Matheus+Gustav" alt="Matheus Gustav" />
-
-<p><strong>FullStack Developer &nbsp;•&nbsp; Sites, Apps &amp; Automações &nbsp;•&nbsp; 🇧🇷 Guarapari/ES</strong></p>
+<img src="assets/topo.svg" width="100%" alt="Matheus Gustav" />
 
 <a href="https://wa.me/5527996240725">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=720&height=45&lines=Construo+sites%2C+aplicativos+e+automa%C3%A7%C3%B5es+%E2%9A%99%EF%B8%8F;Apaixonado+por+IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;React+%C2%B7+Next+%C2%B7+Supabase+%C2%B7+Deno;Bora+tirar+sua+ideia+do+papel%3F+%F0%9F%9A%80" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=720&height=40&repeat=true&lines=Construo%20sites%2C%20aplicativos%20e%20automa%C3%A7%C3%B5es;Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%20%C2%B7%20Queues;Python%20%C2%B7%20IA;TypeScript%20%C2%B7%20Deno%20%C2%B7%20C%2B%2B;Bora%20tirar%20sua%20ideia%20do%20papel%3F&color=FFFFFF" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=720&height=40&repeat=true&lines=Construo%20sites%2C%20aplicativos%20e%20automa%C3%A7%C3%B5es;Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%20%C2%B7%20Queues;Python%20%C2%B7%20IA;TypeScript%20%C2%B7%20Deno%20%C2%B7%20C%2B%2B;Bora%20tirar%20sua%20ideia%20do%20papel%3F&color=000000" alt="Construo sites, aplicativos e automações" />
+</picture>
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://komarev.com/ghpvc/?username=MatheusGustav&label=visitas&color=000000&style=flat-square" alt="visitas" />
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                           SOBRE                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="26" align="left" />
-
-> Sou **desenvolvedor FullStack** e bom em **construir sites, aplicativos e automações**. Tenho paixão por **automação** e **Inteligência Artificial**, e evoluo a cada dia com novos projetos e experiências no meio do caminho.
->
-> 💬 **Me chama para um orçamento — vou ficar feliz em te atender!**
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         TECH STACK                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000%2C100:3a3a3a&height=42&section=header&text=Projetos%20que%20eu%20trabalho%20hoje&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" /><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=42&section=header&text=Projetos%20que%20eu%20trabalho%20hoje&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Projetos que eu trabalho hoje" /></picture>
 
 <div align="center">
 
-## 🛠️ &nbsp; Tech Stack
+### [Mestre Oficina](https://mestreoficina.com.br)
+*Sistema de gestão para oficinas mecânicas: ordem de serviço digital, lembretes automáticos no WhatsApp e nota fiscal em 1 clique.*
+
+<img src="assets/medalha-commits.svg" width="150" alt="Commits no Mestre Oficina" />
+<img src="assets/medalha-funcionalidades.svg" width="150" alt="Novas funcionalidades" />
+<img src="assets/medalha-correcoes.svg" width="150" alt="Correções" />
+
+<a href="https://mestreoficina.com.br"><img src="https://img.shields.io/badge/mestreoficina.com.br-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mestreoficina.com.br" /></a>
+
+</div>
+
+<br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000%2C100:3a3a3a&height=42&section=header&text=Projetos%20pessoais&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" /><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=42&section=header&text=Projetos%20pessoais&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Projetos pessoais" /></picture>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/MatheusGustav/mister">mister</a></h3>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/IA-000000?style=flat-square" alt="IA" />
+<p><em>Assistente pessoal com IA que roda no terminal.</em></p>
+<ul>
+<li>A IA escolhe o que fazer; ferramentas escritas em código executam</li>
+<li>Ação perigosa só roda depois que eu confirmo</li>
+<li>Memória com busca por significado, com embeddings locais</li>
+<li>Até 4 ações por resposta, com detector de loop</li>
+<li>Manda arquivos pro celular usando o ekodide</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/MatheusGustav/colibri">colibri</a></h3>
+<img src="https://img.shields.io/badge/C-000000?style=flat-square" alt="C" /> <img src="https://img.shields.io/badge/fork-000000?style=flat-square" alt="fork" />
+<p><em>Qwen3.6-35B-A3B rodando num notebook de 12 GB, sem placa de vídeo.</em></p>
+<ul>
+<li>Pico de RAM caiu de <b>8,7 GB para 4,8 GB</b></li>
+<li>Leitura do prompt <b>~4x</b> mais rápida, resposta <b>~2x</b></li>
+<li>Tudo opcional: desligado, o resultado é idêntico ao original</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/MatheusGustav/ekodide">ekodide</a></h3>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square" alt="Kotlin" />
+<p><em>Transferência de arquivos pela rede local, cifrada e autenticada.</em></p>
+<ul>
+<li>Criptografia AES-256-GCM + autenticação HMAC</li>
+<li>O arquivo chega idêntico, byte a byte</li>
+<li>Aparelhos se acham sozinhos na rede e pareiam por frase-código</li>
+<li>CLI em Python com 1 dependência + app Android em Kotlin</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/MatheusGustav/webhook-pagamentos">webhook-pagamentos</a></h3>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square" alt="TypeScript" /> <img src="https://img.shields.io/badge/Deno-000000?style=flat-square" alt="Deno" /> <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square" alt="Supabase" />
+<p><em>Cria a cobrança e confirma o pagamento com segurança: InfinitePay e Mercado Pago.</em></p>
+<ul>
+<li>Reconfere na API do gateway, não confia só no aviso</li>
+<li>Não confirma o mesmo pagamento duas vezes</li>
+<li>Avisa no Telegram cada venda e cada problema</li>
+<li>Saiu de código em produção. <a href="https://wa.me/5527996240725">Eu instalo no seu projeto</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000%2C100:3a3a3a&height=42&section=header&text=Stack&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" /><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=42&section=header&text=Stack&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Stack" /></picture>
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center"><strong>🎨 &nbsp; Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro,tailwind&theme=dark&perline=9" alt="Frontend" /></td>
+    <td align="right"><b>Backend</b></td>
+    <td>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><img src="https://cdn.simpleicons.org/php/000000" width="30" height="30" alt="PHP" title="PHP" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><img src="https://cdn.simpleicons.org/laravel/000000" width="30" height="30" alt="Laravel" title="Laravel" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><img src="https://cdn.simpleicons.org/python/000000" width="30" height="30" alt="Python" title="Python" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/ffffff" /><img src="https://cdn.simpleicons.org/nodedotjs/000000" width="30" height="30" alt="Node.js" title="Node.js" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/deno/ffffff" /><img src="https://cdn.simpleicons.org/deno/000000" width="30" height="30" alt="Deno" title="Deno" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffff" /><img src="https://cdn.simpleicons.org/mysql/000000" width="30" height="30" alt="MySQL" title="MySQL" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><img src="https://cdn.simpleicons.org/postgresql/000000" width="30" height="30" alt="PostgreSQL" title="PostgreSQL" /></picture>&nbsp;&nbsp;
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>⚙️ &nbsp; Backend & Linguagens</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,deno,python,kotlin,cpp,supabase,postgres,mysql,mongodb&theme=dark&perline=9" alt="Backend & Linguagens" /></td>
+    <td align="right"><b>Frontend</b></td>
+    <td>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/ffffff" /><img src="https://cdn.simpleicons.org/html5/000000" width="30" height="30" alt="HTML" title="HTML" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><img src="https://cdn.simpleicons.org/css/000000" width="30" height="30" alt="CSS" title="CSS" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/ffffff" /><img src="https://cdn.simpleicons.org/javascript/000000" width="30" height="30" alt="JavaScript" title="JavaScript" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ffffff" /><img src="https://cdn.simpleicons.org/typescript/000000" width="30" height="30" alt="TypeScript" title="TypeScript" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><img src="https://cdn.simpleicons.org/react/000000" width="30" height="30" alt="React" title="React" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="30" height="30" alt="Next.js" title="Next.js" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vite/ffffff" /><img src="https://cdn.simpleicons.org/vite/000000" width="30" height="30" alt="Vite" title="Vite" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/alpinedotjs/ffffff" /><img src="https://cdn.simpleicons.org/alpinedotjs/000000" width="30" height="30" alt="Alpine.js" title="Alpine.js" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/animedotjs/ffffff" /><img src="https://cdn.simpleicons.org/animedotjs/000000" width="30" height="30" alt="Anime.js" title="Anime.js" /></picture>&nbsp;&nbsp;
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>🚀 &nbsp; DevOps</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,linux&theme=dark&perline=5" alt="DevOps" /></td>
+    <td align="right"><b>Outras linguagens</b></td>
+    <td>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kotlin/ffffff" /><img src="https://cdn.simpleicons.org/kotlin/000000" width="30" height="30" alt="Kotlin" title="Kotlin" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/c/ffffff" /><img src="https://cdn.simpleicons.org/c/000000" width="30" height="30" alt="C" title="C" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cplusplus/ffffff" /><img src="https://cdn.simpleicons.org/cplusplus/000000" width="30" height="30" alt="C++" title="C++" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><img src="https://cdn.simpleicons.org/gnubash/000000" width="30" height="30" alt="Shell" title="Shell" /></picture>&nbsp;&nbsp;
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>📚 &nbsp; Aprendendo</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> &nbsp;<img src="https://img.shields.io/badge/Figma-em%20progresso%20%F0%9F%8C%B1-047857?style=flat-square&labelColor=022c22&logo=figma&logoColor=34D399" alt="Aprendendo Figma" height="22" /></td>
+    <td align="right"><b>DevOps</b></td>
+    <td>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/ffffff" /><img src="https://cdn.simpleicons.org/git/000000" width="30" height="30" alt="Git" title="Git" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubactions/ffffff" /><img src="https://cdn.simpleicons.org/githubactions/000000" width="30" height="30" alt="GitHub Actions" title="GitHub Actions" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/ffffff" /><img src="https://cdn.simpleicons.org/docker/000000" width="30" height="30" alt="Docker" title="Docker" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kubernetes/ffffff" /><img src="https://cdn.simpleicons.org/kubernetes/000000" width="30" height="30" alt="Kubernetes" title="Kubernetes" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/n8n/ffffff" /><img src="https://cdn.simpleicons.org/n8n/000000" width="30" height="30" alt="n8n" title="n8n" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cloudflare/ffffff" /><img src="https://cdn.simpleicons.org/cloudflare/000000" width="30" height="30" alt="Cloudflare" title="Cloudflare" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/ffffff" /><img src="https://cdn.simpleicons.org/linux/000000" width="30" height="30" alt="Linux" title="Linux" /></picture>&nbsp;&nbsp;
+    </td>
   </tr>
 </table>
 
 </div>
 
----
+<br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          PROJETOS                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000%2C100:3a3a3a&height=42&section=header&text=GitHub%20em%20n%C3%BAmeros&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" /><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=42&section=header&text=GitHub%20em%20n%C3%BAmeros&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="GitHub em números" /></picture>
 
 <div align="center">
 
-## 🚀 &nbsp; Projetos
-
-<a href="https://github.com/MatheusGustav/cocarsagrado">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGustav&repo=cocarsagrado&bg_color=06231A&title_color=34D399&text_color=c9d1d9&icon_color=6EE7B7&hide_border=true&show_owner=false" alt="Cocar Sagrado" />
-</a>
-<a href="https://github.com/MatheusGustav/webhook-pagamentos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGustav&repo=webhook-pagamentos&bg_color=06231A&title_color=34D399&text_color=c9d1d9&icon_color=6EE7B7&hide_border=true&show_owner=false" alt="webhook-pagamentos" />
-</a>
-<a href="https://github.com/MatheusGustav/ekodide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGustav&repo=ekodide&bg_color=06231A&title_color=34D399&text_color=c9d1d9&icon_color=6EE7B7&hide_border=true&show_owner=false" alt="ekodide" />
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><strong>📂 &nbsp; Ver detalhes dos projetos</strong></summary>
-
-<br/>
-
-### 🎭 [Cocar Sagrado](https://github.com/MatheusGustav/cocarsagrado) &nbsp; `E-commerce de serviços · em produção`
-
-> Plataforma completa de agendamento e venda de leituras. 🌐 **[cocarsagrado.com.br](https://cocarsagrado.com.br)**
-
-- 🛒 Carrinho de múltiplos serviços com pagamento único (InfinitePay) e confirmação automática via webhook
-- 🔒 Controle de vagas à prova de concorrência (triggers Postgres) — sem overbooking
-- 📊 Painel admin com agenda, promoções, financeiro e atualização **em tempo real** quando um pagamento confirma
-- 📲 PWA instalável + bot do Telegram avisando cada venda
-- 🛠️ **Stack:** HTML · CSS · JavaScript · TypeScript · Supabase (Postgres + RLS + Edge Functions)
-
-### 💸 [webhook-pagamentos](https://github.com/MatheusGustav/webhook-pagamentos) &nbsp; `MIT · PT-BR`
-
-> Integração de pagamento completa: **cria a cobrança e confirma o pagamento com segurança** — InfinitePay e Mercado Pago.
-
-- 🔒 Nunca confia só no aviso: reconfirma na API do gateway
-- 🔁 Idempotência (reenvio não confirma 2×), validação de valor em centavos e log de toda chamada
-- 🔔 Bot do Telegram avisa cada venda — e cada problema, com o motivo
-- 🧩 Extraído de código rodando **em produção**; arquitetura plugável (novo gateway = 1 arquivo)
-- 🛠️ **Stack:** TypeScript · Deno · Supabase
-- 💼 Quer no seu projeto sem dor de cabeça? **Eu instalo** → [WhatsApp](https://wa.me/5527996240725)
-
-### 🦜 [ekodide](https://github.com/MatheusGustav/ekodide) &nbsp; `Python · Kotlin`
-
-> Transferência de arquivos pela rede local, **cifrada (AES-256-GCM)** e **autenticada (HMAC)** — chega byte-idêntica.
-
-- 🔐 Criptografia ponta a ponta com pareamento por frase-código
-- 📡 Descoberta automática de aparelhos na rede (zero-config)
-- 🐍 CLI em Python (1 só dependência) + 📱 app Android em Kotlin, com testes nos dois lados
-
-</details>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     GITHUB EM NÚMEROS                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-## 📊 &nbsp; GitHub em Números
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MatheusGustav&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=06231A&title_color=34D399&icon_color=6EE7B7&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGustav&layout=compact&hide_border=true&langs_count=8&bg_color=06231A&title_color=34D399&text_color=c9d1d9" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGustav&locale=pt_br&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=DDDDDD&dates=888888&stroke=888888" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGustav&locale=pt_br&hide_border=true&background=00000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=333333&dates=888888&stroke=888888" alt="Sequência de contribuições" />
+</picture>
 
 <br/><br/>
 
-<!-- COBRINHA DE CONTRIBUIÇÕES -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MatheusGustav/MatheusGustav/output/pacman-contribution-graph.svg" alt="Pac-Man comendo as contribuições" />
 </picture>
 
 </div>
 
----
+<br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          CONTATO                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000%2C100:3a3a3a&height=42&section=header&text=Vamos%20conversar%3F&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" /><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=42&section=header&text=Vamos%20conversar%3F&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Vamos conversar?" /></picture>
 
 <div align="center">
 
-## 📬 &nbsp; Vamos Conversar?
+<br/>
 
-<a href="https://wa.me/5527996240725">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-<a href="https://www.instagram.com/matheus.extends">
-  <img src="https://img.shields.io/badge/@matheus.extends-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:matheusgustav.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://wa.me/5527996240725"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.instagram.com/matheus.extends"><img src="https://img.shields.io/badge/%40matheus.extends-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="@matheus.extends" /></a>
+<a href="mailto:matheusgustav.dev@gmail.com"><img src="https://img.shields.io/badge/E-mail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&pause=1000&color=34D399&center=true&vCenter=true&width=520&lines=Obrigado+pela+visita!+%E2%9C%A8;Bora+construir+algo+incr%C3%ADvel+juntos%3F" alt="Footer typing" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1200&center=true&vCenter=true&width=520&height=30&repeat=true&lines=Obrigado%20pela%20visita%21;Bora%20construir%20algo%20juntos%3F&color=FFFFFF" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1200&center=true&vCenter=true&width=520&height=30&repeat=true&lines=Obrigado%20pela%20visita%21;Bora%20construir%20algo%20juntos%3F&color=000000" alt="Obrigado pela visita!" />
+</picture>
+
+<img src="assets/rodape.svg" width="100%" alt="" />
 
 </div>

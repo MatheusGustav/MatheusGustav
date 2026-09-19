@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200" role="img" aria-label="Matheus Gustav">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000000"/><stop offset=".5" stop-color="#1f1f1f"/><stop offset="1" stop-color="#4a4a4a"/></linearGradient></defs>
+<style>text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#fff;text-anchor:middle;opacity:0;animation:f 1.2s ease-in-out forwards}.d{animation-delay:.3s}@keyframes f{to{opacity:1}}</style>
+<path fill="url(#g)" d="M0 170 C 214 148 427 192 640 170 S 854 148 854 159.0 V 0 H 0 Z"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 170 C 214 148 427 192 640 170 S 854 148 854 159.0 V 0 H 0 Z;M0 159.0 C 214 192 427 148 640 159.0 S 854 181.0 854 170 V 0 H 0 Z;M0 170 C 214 148 427 192 640 170 S 854 148 854 159.0 V 0 H 0 Z"/></path>
+<text x="427" y="92" font-size="64" font-weight="700">Matheus Gustav</text>
+<text class="d" x="427" y="130" font-size="18">Desenvolvedor FullStack · Guarapari/ES</text>
+</svg>
